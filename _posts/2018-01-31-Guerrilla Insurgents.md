@@ -1,1 +1,5 @@
+---
+layout: post
+title: Guerrilla Insurgents!
+---
 Here we go. This is the start of the end, the last thing I have to do before I graduate, my swan song. One week ago today I walked into DCP's office excited and anxious. Excited because I was getting a semester long project that I would have complete control over designing and creating. Anxious because I was getting a semester long project that I would have to completely design and create on my own. My task is straightforward; create a mobile app that shows the location of group members and allows people to opt in or out at their discretion. My first goal was to have an outline ready and to have Android Studio(AS) downloaded by the 30th. Unfortunately, my body came under attack from microscopic guerilla insurgents known collectively as "the flu" the Friday before, causing me to be pretty much bed-ridden for the whole weekend. Productivity? Gone. Fortunately I was able to still get a rough outline sketched out. Additionally, I found out that AS supports Linux based operating systems, which made me very happy. Thanks to a meeting with Dr. McVey I was able to get up and running with AS in no time.
